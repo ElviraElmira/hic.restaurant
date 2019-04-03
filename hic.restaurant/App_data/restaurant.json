@@ -1,0 +1,100 @@
+{
+  "Restaurants": [
+    {
+      "Name": "The Moose",
+      "OpeningHours": "11am - 11pm",
+      "Tables": [
+        {
+          "Id": "moose_21",
+          "Seats": 2,
+          "IsAvailable": true,
+          "IsBookable": true
+        },
+        {
+          "Id": "moose_22",
+          "Seats": 2,
+          "IsAvailable": true,
+          "IsBookable": true
+        },
+        {
+          "Id": "moose_41",
+          "Seats": 4,
+          "IsAvailable": true,
+          "IsBookable": true
+        },
+        {
+          "Id": "moose_42",
+          "Seats": 4,
+          "IsAvailable": false,
+          "IsBookable": true
+        },
+        {
+          "Id": "moose_43",
+          "Seats": 4,
+          "IsAvailable": true,
+          "IsBookable": true
+        },
+        {
+          "Id": "moose_61",
+          "Seats": 6,
+          "IsAvailable": true,
+          "IsBookable": true
+        },
+        {
+          "Id": "moose_62",
+          "Seats": 6,
+          "IsAvailable": true,
+          "IsBookable": true
+        }
+      ]
+    },
+    {
+      "Name": "The Elk",
+      "OpeningHours": "08am - 11pm",
+      "Tables": [
+        {
+          "Id": "elk_21",
+          "Seats": 2,
+          "IsAvailable": true,
+          "IsBookable": true
+        },
+        {
+          "Id": "elk_22",
+          "Seats": 2,
+          "IsAvailable": true,
+          "IsBookable": true
+        },
+        {
+          "Id": "elk_41",
+          "Seats": 4,
+          "IsAvailable": true,
+          "IsBookable": true
+        },
+        {
+          "Id": "elk_42",
+          "Seats": 4,
+          "IsAvailable": false,
+          "IsBookable": true
+        },
+        {
+          "Id": "elk_43",
+          "Seats": 4,
+          "IsAvailable": true,
+          "IsBookable": true
+        },
+        {
+          "Id": "elk_61",
+          "Seats": 6,
+          "IsAvailable": false,
+          "IsBookable": true
+        },
+        {
+          "Id": "elk_62",
+          "Seats": 6,
+          "IsAvailable": false,
+          "IsBookable": true
+        }
+      ]
+    }
+  ]
+}

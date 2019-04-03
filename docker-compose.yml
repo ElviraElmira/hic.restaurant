@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  hic.restaurant:
+    image: ${DOCKER_REGISTRY-}hicrestaurant:0.0.1
+    ports:
+      - "8090:80"
+    build:
+      context: .
+      dockerfile: hic.restaurant/Dockerfile
