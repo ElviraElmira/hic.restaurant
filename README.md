@@ -9,7 +9,7 @@ Build
 $ docker-compose build  
 $ docker-compose up
 ### Browse 
-localhost/api/v1/restaurants  
-localhost/api/v1/seatings
+localhost:8090/api/v1/restaurants  
+localhost:8090/api/v1/seatings
 ### Swagger
-localhost/swagger
+localhost:8090/swagger
