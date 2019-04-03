@@ -1,5 +1,5 @@
 # hic.restaurant
-Microservice for a HiCollege assignment, .NET Core 2.2 Web API, run on Docker container(Linux)
+Microservice for a HiCollege assignment, .NET Core 2.2 Web API, runs on Docker container(Linux)  
 Requires Docker for Windows
 ## How-to
 Clone  
