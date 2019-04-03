@@ -1,6 +1,6 @@
 # hic.restaurant
 Microservice for a HiCollege assignment, .NET Core 2.2 Web API, runs on Docker container(Linux)  
-Requires Docker for Windows
+Requires Docker for Windows to run locally
 ## How-to
 Clone  
 Restore  
