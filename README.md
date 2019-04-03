@@ -2,7 +2,7 @@
 Microservice for a HiCollege assignment, .NET Core 2.2 Web API, run on Docker container(Linux)
 Requires Docker for Windows
 ## How-to
-Clone
+Clone \n
 Restore
 Build
 ### Run locally in Docker
